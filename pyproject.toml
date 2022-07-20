@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "standup-shows"
-version = "1.0.0"
+version = "1.0.1"
 description = "Find stand-up comedy shows near you from the command line."
 authors = ["Cal Warhurst"]
 license = "GPL-3.0-or-later"
