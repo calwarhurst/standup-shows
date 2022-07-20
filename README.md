@@ -1,7 +1,7 @@
 <!-- # CLI -->
 # Installation
 ```shell
-$ pip install standup
+$ pip install standup-shows
 ````
 
 # Basic Usage
